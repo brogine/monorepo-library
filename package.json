@@ -1,0 +1,15 @@
+{
+  "name": "monorepo-library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:brogine/monorepo-library.git",
+  "author": "Eric Brogin <ericbrogin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^5.11.16",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
